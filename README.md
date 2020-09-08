@@ -1,4 +1,4 @@
-# DDos_detection
+# DDoS_detection
 <h3> Project Description: </h3>
 
 This is a project that uses <b>SCAPY </b> library for sniffing the live network traffic and based on the flow features DDos attack will be identified.
